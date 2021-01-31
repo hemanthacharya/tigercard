@@ -1,0 +1,9 @@
+.gradle
+build/
+
+
+### Intellij IDEA ###
+
+.idea
+*.iml
+.git/
