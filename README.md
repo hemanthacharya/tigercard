@@ -19,3 +19,9 @@ zones,peak_hours,off_peak_hours,daily_cap,weekly_cap
 2. travelData containing the following - 
 
 Day,Time,FromZone,ToZone
+
+Output :
+
+output a total cost in the below format
+
+Total cost : #
