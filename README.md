@@ -22,6 +22,6 @@ Day,Time,FromZone,ToZone
 
 Output :
 
-output a total cost in the below format
+outputs total cost in the below format
 
 Total cost : #
